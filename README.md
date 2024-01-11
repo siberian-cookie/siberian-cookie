@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 https://cdn.discordapp.com/emojis/1146899342217715814.webp?size=160&quality=lossless
 
 <!--
 **siberian-cookie/siberian-cookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
