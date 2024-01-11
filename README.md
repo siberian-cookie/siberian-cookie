@@ -1,4 +1,5 @@
-### Hi there 👋 https://cdn.discordapp.com/emojis/1146899342217715814.webp?size=160&quality=lossless
+### Hi there 👋 ![image](https://github.com/siberian-cookie/siberian-cookie/assets/156348332/56d7cab9-4eaa-4901-8e22-e4b436775e9b)
+
 
 <!--
 **siberian-cookie/siberian-cookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
